@@ -8,5 +8,7 @@ You could replace "Shuffled Array For Loop" in main VI with for loop in "Shuffle
 Links below help you create this puzzle in different language:
 
 https://en.wikipedia.org/wiki/15_puzzle
+
 https://rosettacode.org/wiki/15_puzzle_game
+
 https://pyinmyeye.blogspot.com/2012/07/tkinter-15-puzzle-demo-placer-geometry.html
