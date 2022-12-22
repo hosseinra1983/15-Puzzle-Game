@@ -1,6 +1,8 @@
 # 15-Puzzle-Game
 15 Puzzle Game in LabVIEW
 
+This VI is written in LabVIEW 2021.
+
 Place tiles in numerical order.
 
 ![Win (1)](https://user-images.githubusercontent.com/49698257/206785045-19f0567b-2cdc-4842-ab6e-4602486e2413.png)
